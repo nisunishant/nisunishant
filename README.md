@@ -1,111 +1,90 @@
-### <h1 align="center">Hi, I'm Nishant or Nisu 👋</h1>
+
+# <h1 align="center">👋 Hi, I'm Nishant (Nisu) | Passionate Full-Stack Developer</h1>
+
+
+---
+
+## 🔥 **Coding Journey**
+A dedicated student mastering the MERN stack (MongoDB, Express, React, Node.js) with expertise in **Java**, **Python**, and **C**. Currently diving deep into cloud technologies and system design to build scalable solutions.
+
+```java
+public class Passion {
+  public static void main(String[] args) {
+    while(true) {
+      learn();
+      code();
+      innovate();
+    }
+  }
+}
+```
+
+---
+
+### 🛠️ **Tech Stack**
+
+#### **Frontend Wizardry**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+
+#### **Backend Sorcery**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+#### **Tools of Trade**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+
+---
+
+### 📊 **GitHub Analytics**
+[![Nisu's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisunishant&theme=midnight_purple&show_icons=true&include_all_commits=true&bg_color=00000000)](https://github.com/nisunishant)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisunishant&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=00000000&include_all_commits)](https://github.com/nisunishant)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nisunishant&theme=midnight-purple&hide_border=false&background=00000000)](https://github.com/nisunishant)
+
+<br>
+
+[![Nisu's Contributions](https://github-contributor-stats.vercel.app/api?username=nisunishant&theme=midnight-purple&bg_color=00000000&show_icons=true&repos_count=5&border_radius=12&include_orgs=true&disable_animations=false)](https://github.com/nisunishant)
+<br>
+![Nisu Stats](https://github-readme-stats.vercel.app/api?username=nisunishant&show_icons=true&theme=midnight-purple&include_all_commits=true)
+<br>
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisunishant&layout=compact&theme=midnight-purple)
+
+---
+
+### 🏆 **Achievements**
+[![trophy](https://github-profile-trophy.vercel.app/?username=nisunishant&theme=algolia&margin-w=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🌐 **Let's Connect!**
+[![Gmail](https://img.shields.io/badge/-nisunishant18@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nisunishant18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/yourprofile)
+
+---
+
+### 🎯 **Current Focus**
+```mermaid
+graph TD
+  A[Master System Design] --> B[Deep Dive into Cloud]
+  B --> C[Build Full-Stack Projects]
+  C --> D[Contribute to Open Source]
+```
+
+---
+
+### 💭 **Developer Thoughts**
+> *"The web is my canvas, code is my brush - creating digital masterpieces one commit at a time."*  
+> *"Debugging: Where 'it worked yesterday' meets 'how is this even possible?'"*
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=blueviolet&center=true&vCenter=true&width=2000&lines=This+is+my+Github+page+and+I+thank+everyone+who+helped+me+somewhere+in+my+life+and+made+the+me+I+am+today." alt="Typing SVG">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="80%">
 </div>
-
-<br>
-
-### A dedicated student with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
-
-<div style="background-color: transparent; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">
-  I'm currently learning HTML, CSS, Java, JavaScript for frontend development. On the backend, I'm diving into Node.js and databases like SQL. I'm also expanding my knowledge in Python and have basic knowledge in C.
-</div>
-
-<br>
-<br>
-
-### <h2>Profile Data:</h2> 
-
-<div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=nisunishant&color=blueviolet" alt="Profile Views">
-  <img src="https://img.shields.io/badge/HELLO-CODERS-black" alt="Custom Badge">
-  <img src="https://img.shields.io/github/issues-pr-closed/nisunishant/nisunishant?color=blueviolet" alt="Issue Count">
-  <img src="https://img.shields.io/github/issues/nisunishant/nisunishant?color=blueviolet" alt="Issue Count">
-</div>
-
-### <h2>Other Information:</h2>
-
-<div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://img.shields.io/github/repo-size/nisunishant/nisunishant?color=blueviolet" alt="GitHub Repo Size">
-  <a href="https://github.com/sponsors/nisunishant" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
-  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=blueviolet" alt="Open Source Love">
-  <img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me">
-</div>
-
-<br>
-<br>
-
-### <h2>My Trophies:</h2>
-
-<div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=nisunishant&theme=algolia&no-bg=true&no-frame=true" alt="nishur31" /></a>
-</div>
-
-<br>
-<br>
-
-### <h2>About Me:</h2>
-
-* I'm currently learning **Java, JavaScript and Python**, with a focus on building scalable and efficient applications.
-* I have basic knowledge of **C**, which has helped me understand the fundamentals of programming.
-* My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
-* All of my projects are available at the [Repository Tab](https://github.com/nisunishant?tab=repositories), where you can explore my coding journey.
-* How to reach me: **nisunishant18@gmail.com**. I'm always open to collaborations and discussions about tech!
-
-<br>
-<br>
-
-### <h2>Connect with Me</h2>
-
-  Just email me at **nisunishant18@gmail.com**! 😊 I would love to connect with fellow developers and learn from their experiences.
-
-<br>
-
-
-<br>
-<br>
-
-
-### <h2>Languages & Tools </h2>   
-<br>
-<br>
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=red&center=true&vCenter=true&width=1500&lines=I+am+continously+learning;And+tuning+my+skill+too." alt="Typing SVG">
-</div>
-<br>
-<hr>
-<div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
- <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-</a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/> 
- </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" height="60" width="60"/> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="60" width="60"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60" width="60"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-
-</div>
-<br>
-<br>
-
-
-### <h2>My GitHub Stats </h2>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nisunishant&show_icons=true&locale=en&layout=compact&theme=midnight-purple) ![Jokes Card](https://readme-jokes.vercel.app/api?username=nisunishant&theme=midnight-purple)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nisunishant&repo=nisunishant&show_owner=true&theme=midnight-purple)](https://github.com/nisunishant)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishuR31&show_icons=true&theme=midnight-purple)![GitHub stats](https://github-readme-stats.vercel.app/api?username=nisunishant&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-<hr>
-
-![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
-
-
-<br>
-
-### Projects
-* I'm currently working on projects. [Click here to check my projects.](https://github.com/nisunishant?tab=repositories)
-* Stay tuned for more updates! 🚀
