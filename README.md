@@ -9,7 +9,7 @@
 ### A dedicated student with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
 
 <div style="background-color: transparent; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">
-  I'm currently learning HTML, CSS, Java, JavaScript for frontend development. On the backend, I'm diving into Node.js and databases like SQL. I'm also expanding my knowledge in Python and have basic knowledge in C.
+  I'm currently learning HTML, CSS, Java, JavaScript for frontend development. On the backend, I'm diving into Node.js and databases like SQL.
 </div>
 
 <br>
@@ -48,8 +48,7 @@
 ### <h2>About Me:</h2>
 
 * I'm currently learning **Java, JavaScript and Python**, with a focus on building scalable and efficient applications.
-* I have basic knowledge of **C**, which has helped me understand the fundamentals of programming.
-* My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
+* My expertise extends to **HTML,CSS and JS**, where I work on crafting responsive and visually appealing web pages.
 * All of my projects are available at the [Repository Tab](https://github.com/nisunishant?tab=repositories), where you can explore my coding journey.
 * How to reach me: **nisunishant18@gmail.com**. I'm always open to collaborations and discussions about tech!
 
