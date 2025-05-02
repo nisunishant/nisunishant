@@ -6,7 +6,7 @@
 
 <br>
 
-### A dedicated student with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
+### A dedicated Learner with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
 
 <div style="background-color: transparent; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">
   I'm currently learning HTML, CSS, Java, JavaScript for frontend development. On the backend, I'm diving into Node.js and databases like SQL.
