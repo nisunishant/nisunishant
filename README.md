@@ -39,7 +39,7 @@
 ### <h2>My Trophies:</h2>
 
 <div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=nisunishant&theme=algolia&no-bg=true&no-frame=true" alt="nishur31" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=nisunishant&theme=algolia&no-bg=true&no-frame=true" alt="nisunishant" /></a>
 </div>
 
 <br>
@@ -94,8 +94,12 @@
 
 ### <h2>My GitHub Stats </h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nisunishant&show_icons=true&locale=en&layout=compact&theme=midnight-purple) ![Jokes Card](https://readme-jokes.vercel.app/api?username=nisunishant&theme=midnight-purple)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nisunishant&repo=nisunishant&show_owner=true&theme=midnight-purple)](https://github.com/nisunishant)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishuR31&show_icons=true&theme=midnight-purple)![GitHub stats](https://github-readme-stats.vercel.app/api?username=nisunishant&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nisunishant&show_icons=true&locale=en&layout=compact&theme=midnight-purple) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nisunishant&repo=nisunishant&show_owner=true&theme=midnight-purple)](https://github.com/nisunishant)
+<br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?username=nisunishant&theme=midnight-purple)  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nisunishant&theme=midnight-purple)](https://github.com/nisunishant)
 
 <hr>
 
